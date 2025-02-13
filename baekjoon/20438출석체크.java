@@ -3,6 +3,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+
+
 class Main {
     static int[] studentStatus; // 학생들의 상태를 저장할 배열
 
